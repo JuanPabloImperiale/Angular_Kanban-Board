@@ -1,4 +1,4 @@
-# Angular: Kanban Board
+# Angular: Kanban Board - HackerRank Test
 
 ## Environment 
 
